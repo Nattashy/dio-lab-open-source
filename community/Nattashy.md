@@ -16,5 +16,5 @@ Eu desejo me tornar uma desenvolvedora especializada na manutenção de sistemas
 
 ## 🔗 Conecte-se comigo
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=f10ac7)](https://www.linkedin.com/natashy/)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=f10ac7)](https://www.linkedin.com/in/natashy/)
 
